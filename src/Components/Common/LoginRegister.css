@@ -47,9 +47,12 @@
 }
 
 .register-form input {
-  @apply border-solid border-[#B8B8B8] border-b-[2px] outline-none pb-[1px]  w-[300px] md:w-[526px] lg:placeholder:text-[26px]
+  @apply border-solid border-[#B8B8B8] border-b-[2px] outline-none pb-[1px]  w-[300px] md:w-[526px]
 
-                md:placeholder:text-[20px] placeholder:font-poppins placeholder:font-medium;
+
+                lg:placeholder:text-[26px] md:placeholder:text-[20px] placeholder:font-poppins
+
+                placeholder:font-medium bg-transparent;
 }
 
 .register-form button {
