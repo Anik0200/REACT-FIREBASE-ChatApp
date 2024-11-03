@@ -64,7 +64,7 @@ function Register() {
                 <div className="register-right">
 
                     <div className="register-head text-center">
-                        <h2 className='font-poppins font-bold text-[#000000]'>Create Account</h2>
+                        <h2 className='font-poppins font-bold text-[#000000]'>Create Anik</h2>
                     </div>
 
                     <div className="btn flex flex-wrap justify-center">
